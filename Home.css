@@ -532,7 +532,7 @@
 .u-section-4 .u-image-3 {
   width: 183px;
   height: 183px;
-  background-image: url("images/Mori.JPG");
+  background-image: url("images/2022-10-25-CVS-Titus-Shiny-0766.jpg");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: -38px auto 0;
@@ -575,7 +575,7 @@
 .u-section-4 .u-image-4 {
   width: 183px;
   height: 183px;
-  background-image: url("images/Brian.jpeg");
+  background-image: url("images/Mori.JPG");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: -38px auto 0;
@@ -618,7 +618,7 @@
 .u-section-4 .u-image-5 {
   width: 183px;
   height: 183px;
-  background-image: url("images/Michael.png");
+  background-image: url("images/Brian.jpeg");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: -38px auto 0;
@@ -661,7 +661,7 @@
 .u-section-4 .u-image-6 {
   width: 183px;
   height: 183px;
-  background-image: url("images/Jacob.jpeg");
+  background-image: url("images/Michael.png");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: -38px auto 0;
@@ -736,6 +736,49 @@
   margin: 20px auto 0;
 }
 
+.u-section-4 .u-list-item-8 {
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-8 {
+  padding: 0 30px 32px;
+}
+
+.u-section-4 .u-image-8 {
+  width: 183px;
+  height: 183px;
+  background-image: url("images/Jacob.jpeg");
+  background-position: 50% 50%;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -38px auto 0;
+}
+
+.u-section-4 .u-text-17 {
+  letter-spacing: 0px;
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-transform: none;
+  margin: 30px auto 0;
+}
+
+.u-section-4 .u-text-18 {
+  font-size: 1rem;
+  line-height: 1.6;
+  font-weight: 400;
+  font-style: normal;
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-btn-8 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  border-style: none;
+  text-transform: uppercase;
+  background-image: none;
+  font-weight: 400;
+  margin: 20px auto 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-4 .u-repeater-1 {
     grid-template-columns: repeat(3, calc(33.333333333333336% - 42px));
@@ -780,6 +823,10 @@
   .u-section-4 .u-container-layout-7 {
     padding-bottom: 30px;
   }
+
+  .u-section-4 .u-container-layout-8 {
+    padding-bottom: 30px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -818,6 +865,11 @@
   }
 
   .u-section-4 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-8 {
     padding-left: 10px;
     padding-right: 10px;
   }
